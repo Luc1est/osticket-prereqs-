@@ -41,13 +41,19 @@ I used Azure cloud to create a virtual machine, after creating and Logging into 
 
 i enabled IIS and CGI, a dependent that OS ticket needs found within world wide web services
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+![image](https://github.com/user-attachments/assets/ba50e594-2892-4f6f-8c12-7de787d7a5d4)
+
+i installed PHP manager for IIS, this is essential for OS Ticket to Run
+
+ ![image](https://github.com/user-attachments/assets/0e537dd5-f348-45b6-969a-8df8e5b701b3)
+
+Next i instlled Microsoft visual C+ Redistributable 
+
+
+![image](https://github.com/user-attachments/assets/d4bce304-5c86-48a3-8f79-3fc1ed80b43b)
+
+Lastly i installed my SQL, this is a database where all the data will be stored and organized. user accounts, ticketeing info etc...
 
 
 
