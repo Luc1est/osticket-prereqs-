@@ -22,14 +22,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-<h2>Installation Steps</h2>
-
+- Installed / Enable IIS in Windows WITH CGI
+World Wide Web Services -> Application Development Features -> [X] CGI
+-  installed PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+- installed the Rewrite Module (rewrite_amd64_en-US.msi)
+- Create the directory C:\PHP-
+- From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 into the “C:\PHP” folder- 
+<h2>Installation Steps</h2> 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
