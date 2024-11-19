@@ -1,5 +1,4 @@
-<h1>Hi, I'm Dillon, anwww.linkedin.com/in/<a href=>IT Professional</a>☺</h1>
-# osticket-prereqs-
+<h1>Hi, I'm Josh, an <a href="www.linkedin.com/in/>IT Professional</a>☺</h1># osticket-prereqs-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
