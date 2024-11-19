@@ -1,3 +1,4 @@
+<h1>Hi, I'm Dillon, an <a href="https://linkedin.com/in/Dillon">IT Professional</a>☺</h1>
 # osticket-prereqs-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
